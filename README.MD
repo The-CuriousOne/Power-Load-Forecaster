@@ -140,10 +140,10 @@ The primary objective of this project is to forecast energy load using a combina
 ---
 
 ## **Results**
-- **Best Performing Model**: [Specify based on experiments]
+- **Best Performing Model**: Hybrid RNN-QCNN
 - **Observations**:
-  - Quantum models showed [add key insights].
-  - Classical CNN achieved [add key results].
+  - Quantum models showed 98.86% accuracy.
+  - Classical CNN achieved 85.63% accuracy.
 
 ---
 
